@@ -62,7 +62,7 @@ Recreating Google's homepage with a custom twist is a great exercise in web deve
 ## Getting Started 🚀
 
 1. Clone this repository.
-2. Open `index.html` in your browser.
+2. Open the `index.html` file in your browser or code editor.
 3. Explore the code in your favorite text editor to see how it's built.
 
 ## Contributing 🤝
