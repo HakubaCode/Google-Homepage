@@ -15,7 +15,6 @@ This project involves recreating the Google homepage with a personalized twist, 
 
 - HTML5
 - CSS3
-- JavaScript
 - Google Fonts
 - Font Awesome icons
 
@@ -37,9 +36,8 @@ This project involves recreating the Google homepage with a personalized twist, 
 
 1. Setup the Project
 2. Structure with HTML
-3. Style with CSS
-4. Add Interactivity with JavaScript
-5. Testing and Optimization
+3. Style and Interactivity with CSS
+4. Testing and Optimization
 
 ## CSS Explanation 🎨
 
@@ -59,13 +57,13 @@ This project involves recreating the Google homepage with a personalized twist, 
 
 ## Conclusion 🏁
 
-Recreating Google's homepage with a custom twist is a great exercise in web development that covers essential skills in HTML, CSS, and JavaScript. This project not only demonstrates the ability to replicate a well-known website but also highlights the importance of responsive design and performance optimization.
+Recreating Google's homepage with a custom twist is a great exercise in web development that covers essential skills in HTML, CSS,. This project not only demonstrates the ability to replicate a well-known website but also highlights the importance of responsive design and performance optimization.
 
 ## Getting Started 🚀
 
-1. Clone this repository
-2. Open `index.html` in your browser
-3. Explore the code in your favorite text editor to see how it's built
+1. Clone this repository.
+2. Open `index.html` in your browser.
+3. Explore the code in your favorite text editor to see how it's built.
 
 ## Contributing 🤝
 
