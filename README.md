@@ -1,4 +1,4 @@
-<h1><a href="https://hakubacode-google.netlify.app/">Recreating Google's Homepage</a> 🌐</h1>
+<h1><a href="https://google-homepage-hakubacode.netlify.app/">Recreating Google's Homepage</a> 🌐</h1>
 
 ## Project Description 📝
 
