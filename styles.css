@@ -13,7 +13,6 @@ body {
     min-height: 100vh;
 }
 
-/* THESE ARE ADDED POST COURSE! */
 main,
 header,
 footer > div {
@@ -21,7 +20,6 @@ footer > div {
     max-width: 1200px;
     margin: 0 auto;
 }
-/* JUST THESE LINES ABOVE */
 
 button {
     cursor: pointer;
@@ -98,8 +96,20 @@ main {
 }
 
 .title-text {
-    font-size: 3rem;
+    font-size: 5rem;
+    font-weight: bold;
+    letter-spacing: -2px;
 }
+
+.title-text span:nth-child(1) { color: #4285F4; } /* Blue */
+.title-text span:nth-child(2) { color: #EA4335; } /* Red */
+.title-text span:nth-child(3) { color: #FBBC05; } /* Yellow */
+.title-text span:nth-child(4) { color: #4285F4; } /* Blue */
+.title-text span:nth-child(5) { color: #34A853; } /* Green */
+.title-text span:nth-child(6) { color: #EA4335; } /* Red */
+.title-text span:nth-child(7) { color: #4285F4; } /* Blue */
+.title-text span:nth-child(8) { color: #FBBC05; } /* Yellow */
+.title-text span:nth-child(9) { color: #34A853; } /* Green */
 
 .input-bar {
     display: flex;
@@ -148,7 +158,6 @@ main {
 .button-grid button {
     padding: 0.5rem 1rem;
     border: 1px solid transparent;
-    /* hello my name is james */
     background: rgb(247, 247, 247);
     border-radius: 0.25rem;
 }
@@ -176,7 +185,7 @@ footer {
     font-size: 0.7rem;
 }
 
-footer>div {
+footer > div {
     padding: 1rem;
 }
 
